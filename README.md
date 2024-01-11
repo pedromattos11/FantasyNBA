@@ -1,104 +1,27 @@
-<html lang="en">
+# Liga de Basquete - Regras da Temporada
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Liga de Basquete</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            background-color: #f8f8f8;
-            color: #333;
-            margin: 20px;
-        }
+Bem-vindo à Liga de Basquete! Este é o repositório oficial das regras da temporada. Aqui você encontrará informações essenciais para a organização e participação na liga. 
 
-        h1 {
-            color: #333;
-            text-align: center;
-        }
+## Classificação
 
-        h2 {
-            color: #333;
-        }
+Os 6 primeiros times se classificam, sendo 1-2 de cada conferência. Times classificados em 1º e 2º lugar de cada conferência folgam na primeira rodada. Os times classificados em 3º e 4º, e 5º e 6º disputam o PlayIn em formato NBA (md7), onde o 3º colocado tem duas oportunidades de passar.
 
-        h3 {
-            color: #333;
-        }
+## Rebaixamento
 
-        p {
-            margin-bottom: 15px;
-        }
+Apenas o GM com a pior campanha será rebaixado.
 
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
+## Veto de Trade
 
-        li {
-            margin-bottom: 5px;
-        }
+Toda trade pode ser vetada mediante votação dos adms (Well, Erick, Fultz, Pedro, Menezes e Muniz). Isso inclui as trades dos próprios adms, caso haja discrepância que acarrete desequilíbrio na liga.
 
-        code {
-            background-color: #eee;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
+## Rotação
 
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin-bottom: 20px;
-        }
+Após uma trade, é obrigatório o envio da rotação antes da rodada. Caso não seja enviado, o time seguirá o PADRÃO DA 2K, sem alterações. Erro na rotação apenas nos titulares, por parte do simulador, pode resultar na anulação do jogo se o time prejudicado tiver a rotação errada. Se for bancário, será desconsiderado.
 
-        th,
-        td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
+## Distribuição de Minutos
 
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
+- **Rotações Titulares:** 38 minutos, bloqueados.
+- **Reservas:** Distribuição de 50 minutos.
 
-<body>
-
-    <h1>Regras da Temporada</h1>
-
-    <h2>Classificação</h2>
-    <p>Os 6 primeiros times se classificam, sendo 1-2 de cada conferência. Os times classificados em 1º e 2º lugar de cada conferência folgam na primeira rodada.</p>
-    <p>Os times classificados em 3º e 4º, e 5º e 6º disputam o PlayIn em formato NBA (md7). O 3º colocado tem duas oportunidades de passar.</p>
-
-    <h2>Rebaixamento</h2>
-    <p>Apenas o GM com a pior campanha será rebaixado.</p>
-
-    <h2>Veto de Trade</h2>
-    <p>Toda trade pode ser vetada mediante votação dos adms: Well, Erick, Fultz, Pedro, Menezes e Muniz. Isso inclui as trades dos próprios adms, caso haja discrepância que acarrete desequilíbrio na liga.</p>
-
-    <!-- Adicione as demais seções aqui -->
-
-    <h2>Técnicos</h2>
-    <table>
-        <tr>
-            <th>Técnico</th>
-            <th>Ofensiva</th>
-            <th>Defensiva</th>
-        </tr>
-        <!-- Adicione as linhas da tabela aqui -->
-    </table>
-
-    <h2>Playbooks - Livros de Jogadas</h2>
-    <ul>
-        <li>ProAm Playbook</li>
-        <li>Freelance Practice</li>
-        <li>Midnight Playbook</li>
-        <li>ALL Star Playbook</li>
-        <li>Summer League Playbook</li>
-    </ul>
-
-</body>
-
-</html>
+```plaintext
+40-10 | 30-20 | 30-10-10 | 20-20-10 | 20-10-10-10 | 10-10-10-10-10
