@@ -94,3 +94,93 @@ obs: Lembrando que o desempenho do Coach e a Minutagem podem mudar de acordo com
 
 ## Dúvidas e Sugestões
 Qualquer dúvida ou sugestão todos administradores estão a disposição para ajudar.
+
+## Melhores versões dos jogadores
+
+PG
+
+Chris Paul 97
+Stephen Curry 97
+Luka Doncic 96
+Derrick Rose 95
+Damian Lillard 95
+Russell Westbrook 95
+Shai Gilgeous-Alexander 95
+Tyrese Haliburton 94
+Kyrie Irving 94
+Ja Morant 92
+John Wall 90
+Rajon Rondo 90
+Kyle Lowry 89
+Trae Young 89
+De'Aaron Fox 89
+Jalen Brunson 89
+Kemba Walker 89
+Mike Conley 88
+Jrue Holiday 88
+Jamal Murray 88
+LaMelo Ball 88
+Darius Garland 87
+Ben Simmons 86
+Goran Dragic 85
+Rick Rubio 85
+
+SG
+
+James Harden 95
+Devin Booker 94
+Paul George 93
+Donovan Mitchell 92
+Klay Thompson 91
+Anthony Edwards 89
+Jaylen Brown 89
+Bradley Beal 89
+DeMar DeRozan 89
+Victor Oladipo 88
+Zach LaVine 87
+C.J. McCollum 86
+Eric Gordon 81
+SF
+
+LeBron James 99 (HEAT/CAVS)
+Kevin Durant 97 (GSW/OKC)
+Kawhi Leornad 96
+Jimmy Butler 93
+Andre Iguodala 88
+Gordon Hayward 88
+Khris Middleton 88
+Mikal Brigdes 86
+Brandon Ingram 86
+Andrew Wiggins 83
+Rudy Gay 83
+PF
+
+Giannis Antetokounmpo 97
+Jayson Tatum 94
+Kevin Love 91
+Blake Griffin 90
+Zion Williamson 89
+Domantas Sabonis 88
+Draymond Green 89
+Pascal Siakam 87
+Julius Randle 87
+JJJr 86
+Evan Mobley 86
+Lauri Markkanen 86
+Serge Ibaka 81
+C
+
+Nikola Jokic 98
+Joel Embiid 98
+Anthony Davis 94 (NO/LA)
+DeMarcus Cousins 90
+Karl-Anthony Towns 89
+Rudy Gobert 88
+Bam Adebayo 88
+Brook Lopez 87
+DeAndre Jordan 87
+Kristaps Porzingis 87
+Andre Drummond 86
+Nikola Vucevic 86
+Al Horford 85
+Myles Turner 85
