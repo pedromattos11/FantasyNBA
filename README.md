@@ -1,4 +1,4 @@
-# Liga de Basquete - Regras da Temporada
+# Fantasy League - Regras da Temporada
 
 Bem-vindo à Liga de Basquete! Este é o repositório oficial das regras da temporada. Aqui você encontrará informações essenciais para a organização e participação na liga. 
 
