@@ -4,13 +4,13 @@ Bem-vindo à Liga de Basquete! Este é o repositório oficial das regras da temp
 
 ## 2k Ratings
 
-Geral: www.2kratings.com
-Lendas: www.2kratings.com/lists/top-100-all-time-players
-Melhores PG: www.2kratings.com/lists/point-guard
-Melhores SG: www.2kratings.com/lists/shooting-guard
-Melhores SF: www.2kratings.com/lists/small-forward
-Melhores PF: www.2kratings.com/lists/power-forward
-Melhores CE: www.2kratings.com/lists/center
+- Geral: www.2kratings.com
+- Lendas: www.2kratings.com/lists/top-100-all-time-players
+- Melhores PG: www.2kratings.com/lists/point-guard
+- Melhores SG: www.2kratings.com/lists/shooting-guard
+- Melhores SF: www.2kratings.com/lists/small-forward
+- Melhores PF: www.2kratings.com/lists/power-forward
+- Melhores CE: www.2kratings.com/lists/center
 
 ## Classificação
 
