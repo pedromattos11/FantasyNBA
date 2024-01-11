@@ -1,5 +1,3 @@
-<h1> FantasyNBA </h1>
-
 # REGRAS DA TEMPORADA
 
 # CLASSIFICAÇÃO
