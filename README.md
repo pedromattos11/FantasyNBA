@@ -14,7 +14,7 @@ Bem-vindo à FantasyLeague! Este é o repositório oficial das regras da tempora
 
 ## Classificação
 
-São 2 conferências. Os 6 primeiros times se classificam, sendo 1-2 de cada conferência. Times classificados em 1º e 2º lugar de cada conferência folgam na primeira rodada. Os times classificados em 3º e 4º, e 5º e 6º disputam o PlayIn em formato NBA (md7), onde o 3º colocado tem duas oportunidades de passar.
+São 2 conferências. Os 7 primeiros times se classificam. O primeiro colocado de cada conferência folga na primeira rodada dos playoffs. Os times classificados em 3º e 4º,5º, e 6º e 7° disputam a MD7 no formato NFL, perdeu ta fora.
 
 ## Rebaixamento
 
@@ -22,7 +22,7 @@ Apenas o GM com a pior campanha será rebaixado.
 
 ## Veto de Trade
 
-Toda trade pode ser vetada mediante votação dos adms (Pedro, Well, Erick, Fultz, Menezes e Muniz). Isso inclui as trades dos próprios adms, caso haja discrepância que acarrete desequilíbrio na liga.
+Toda trade pode ser vetada mediante votação dos adms (Pedro, Well, Richard, Fultz, Hallan e Muniz). Isso inclui as trades dos próprios adms, caso haja discrepância que acarrete desequilíbrio na liga.
 
 ## Rotação
 
@@ -97,90 +97,123 @@ Qualquer dúvida ou sugestão todos administradores estão a disposição para a
 
 ## Melhores versões dos jogadores
 
-PG
 
-Chris Paul 97
-Stephen Curry 97
-Luka Doncic 96
-Derrick Rose 95
-Damian Lillard 95
-Russell Westbrook 95
-Shai Gilgeous-Alexander 95
-Tyrese Haliburton 94
-Kyrie Irving 94
-Ja Morant 92
-John Wall 90
-Rajon Rondo 90
-Kyle Lowry 89
-Trae Young 89
-De'Aaron Fox 89
-Jalen Brunson 89
-Kemba Walker 89
-Mike Conley 88
-Jrue Holiday 88
-Jamal Murray 88
-LaMelo Ball 88
-Darius Garland 87
-Ben Simmons 86
-Goran Dragic 85
-Rick Rubio 85
+VERSÕES DE JOGADORES QUE SUBSTITUIRÃO AS VERSÕES ALL TIME
 
-SG
 
-James Harden 95
-Devin Booker 94
-Paul George 93
-Donovan Mitchell 92
-Klay Thompson 91
-Anthony Edwards 89
-Jaylen Brown 89
-Bradley Beal 89
-DeMar DeRozan 89
-Victor Oladipo 88
-Zach LaVine 87
-C.J. McCollum 86
-Eric Gordon 81
-SF
+PGs
 
-LeBron James 99 (HEAT/CAVS)
-Kevin Durant 97 (GSW/OKC)
-Kawhi Leornad 96
-Jimmy Butler 93
-Andre Iguodala 88
-Gordon Hayward 88
-Khris Middleton 88
-Mikal Brigdes 86
-Brandon Ingram 86
-Andrew Wiggins 83
-Rudy Gay 83
-PF
 
-Giannis Antetokounmpo 97
-Jayson Tatum 94
-Kevin Love 91
-Blake Griffin 90
-Zion Williamson 89
-Domantas Sabonis 88
-Draymond Green 89
-Pascal Siakam 87
-Julius Randle 87
-JJJr 86
-Evan Mobley 86
-Lauri Markkanen 86
-Serge Ibaka 81
-C
+CURRY 2015 - OVER 97
+OSCAR ROBERTSON 1960S – OVER 98
 
-Nikola Jokic 98
-Joel Embiid 98
-Anthony Davis 94 (NO/LA)
-DeMarcus Cousins 90
-Karl-Anthony Towns 89
-Rudy Gobert 88
-Bam Adebayo 88
-Brook Lopez 87
-DeAndre Jordan 87
-Kristaps Porzingis 87
-Andre Drummond 86
-Nikola Vucevic 86
-Al Horford 85
-Myles Turner 85
+SGs:
+
+JORDAN 1996 - OVER 99
+JULIUS ERVING 1970s – OVER 98
+CLYDE DREXLER 1990S – OVER 97
+GEORGE GERVIN 1980s – OVER 95
+DWAYNE WADE 2010s – OVER 98
+DOMINIQUE WILKINS 1980s – OVER 96
+ALLEN IVERSON 2000s – OVER 97
+KLAY 16 – OVER 93
+
+SFs:
+
+BAYLOR 1960s – OVER 97
+JAMES WORTHY 1980s – OVER 96
+NICOLAS BATUM 09-10 – OVER 83
+HARRISON BARNES 16 – OVER 81
+DANNY GREEN 13-14 – OVER 82
+
+PF:
+
+
+DUNCAN 2000s - OVER 99
+DOLPH SCHAYES 1960s – OVER 95
+GREEN 2015 - OVER 90
+IBAKA 2011 - OVER 87
+
+
+C:
+
+
+BILL R. 1960s - OVER 99 
+BILL WALTON 1970s – OVER 96
+DAVID ROBINSON 1990s – OVER 97
+DAVE COWENS 1970s – OVER 96
+WILT 1960s – OVER 99
+MOSES MALONE 1980s – OVER 98
+GEORGE MIKAN 1960s – OVER 95
+WILLIS REED 1960s – OVER 95
+COUSINS 16 – OVER 91
+
+
+JOGADORES ATUAIS COM VERSÃO ALL TIME:
+
+
+Point Guards (PG):
+
+CURRY 2015 -  97
+Chris Paul - 97
+Derrick Rose - 95
+Russell Westbrook - 95
+Kyrie Irving - 94
+John Wall - 90
+Rajon Rondo - 90
+Kyle Lowry - 89
+Kemba Walker - 89
+Mike Conley - 88
+Jrue Holiday - 88
+Ben Simmons - 86
+Goran Dragic - 85
+
+Shooting Guards (SG):
+
+James Harden - 95
+Paul George – 93
+KLAY 16 –  93
+Bradley Beal - 89
+DeMar DeRozan - 89
+Victor Oladipo - 88
+Zach LaVine - 87
+C.J. McCollum – 86
+DANNY GREEN 13-14 – 82
+Eric Gordon - 81
+
+Small Forwards (SF):
+
+LeBron James - 99
+Kevin Durant - 97
+Kawhi Leonard - 96
+Jimmy Butler - 93
+Gordon Hayward - 88
+Khris Middleton - 88
+Andrew Wiggins - 83
+Rudy Gay – 83
+NICOLAS BATUM 09-10 – 83
+HARRISON BARNES 16 – 81
+
+Power Forwards (PF):
+
+Kevin Love – 91
+GREEN 2015 -  90
+Blake Griffin - 90
+Pascal Siakam – 87
+IBAKA 2011 -  87
+Julius Randle – 87
+
+Centers (C):
+
+Anthony Davis – 94
+COUSINS 16 – 91
+Karl-Anthony Towns - 89
+Rudy Gobert - 88
+Brook Lopez - 87
+DeAndre Jordan - 87
+Andre Drummond - 86
+Nikola Vucevic - 86
+Al Horford - 85
+Myles Turner - 85
+
+
