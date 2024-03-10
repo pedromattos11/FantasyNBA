@@ -121,7 +121,7 @@ Shooting Guards (SG):
 
 James Harden - 95
 Paul George – 93
-KLAY 16 –  93
+KLAY 16 –  92
 Bradley Beal - 89
 DeMar DeRozan - 89
 Victor Oladipo - 88
@@ -155,7 +155,7 @@ Julius Randle – 87
 Centers (C):
 
 Anthony Davis – 94
-COUSINS 16 – 91
+COUSINS – 90
 Karl-Anthony Towns - 89
 Rudy Gobert - 88
 Brook Lopez - 87
