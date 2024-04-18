@@ -30,10 +30,9 @@ Após uma trade, é obrigatório o envio da rotação antes da rodada. Caso não
 
 ## Distribuição de Minutos
 
-- **Rotações Titulares:** 38 minutos, bloqueados.
-- **Reservas:** Distribuição de 50 minutos.
+- **Rotações Titulares:** 40 minutos, bloqueados.
+- **Reservas:** Distribuição de 40 minutos.
 
-40-10 | 30-20 | 30-10-10 | 20-20-10 | 20-10-10-10 | 10-10-10-10-10
 
 ## Técnicos
 
@@ -163,6 +162,6 @@ DeAndre Jordan - 87
 Andre Drummond - 86
 Nikola Vucevic - 86
 Al Horford - 85
-Myles Turner - 85
+
 
 
