@@ -107,6 +107,7 @@ Chris Paul - 97
 Derrick Rose - 95
 Russell Westbrook - 95
 Kyrie Irving - 94
+Damian Lillard - 94
 John Wall - 90
 Rajon Rondo - 90
 Kyle Lowry - 89
