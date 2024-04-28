@@ -146,7 +146,6 @@ HARRISON BARNES 16 – 81
 Power Forwards (PF):
 
 Kevin Love – 91
-GREEN 2015 -  90
 Blake Griffin - 90
 Pascal Siakam – 87
 IBAKA 2011 -  87
